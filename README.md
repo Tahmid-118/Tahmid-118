@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Tahmid Chowdhury, a coder still learning how to "speak" in any coding language.
 <!--
 **Tahmid-118/Tahmid-118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
