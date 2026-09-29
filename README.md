@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings, people !!
 
 I am Tahmid Chowdhury, a coder still learning how to "speak" in any coding language.
 <!--
